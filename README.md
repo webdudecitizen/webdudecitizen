@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @webdudecitizen
+- 👀 I’m interested in quantative finance
+- 🌱 I’m currently learning time series in Python, R
